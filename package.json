@@ -1,0 +1,23 @@
+{
+  "name": "jsonresume-theme-presentable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "resume-cli": "^1.2.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoganM95/jsonresume-theme-presentable.git"
+  },
+  "author": "Dogan Mermertas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoganM95/jsonresume-theme-presentable/issues"
+  },
+  "homepage": "https://github.com/DoganM95/jsonresume-theme-presentable#readme"
+}
